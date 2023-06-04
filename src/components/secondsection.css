@@ -1,0 +1,65 @@
+ 
+
+
+.text-yellow {
+    color: yellowgreen;
+}
+
+
+.secondSection{
+    background-color: rgb(26, 26, 60) ;
+    padding: 100px 0;
+    text-align: left;
+    color: white;
+
+}
+
+hr{
+    width: 80%;
+    margin: 40px auto;
+}
+
+.text-gray{
+    color: gray;
+}
+
+.secondSection h1{
+    font-size: xx-large;
+}
+
+
+
+.top-image{
+    width: 38px;
+    top: 20px;
+    left: -42px;
+}
+
+.desc-image .img{
+    width: 30px;
+    height: 30px;
+    top: 8px;
+    left: -27px;
+
+}
+
+.mainpt{
+    font-size: 18px;
+    text-decoration: underline;
+    color: rgb(159, 159, 230);
+}
+
+.vertical-title{
+    color: #E8E884;
+}
+
+ul li{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul img{
+    width:20px;
+    height: 20px;
+}

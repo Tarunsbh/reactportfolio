@@ -1,0 +1,18 @@
+.certificatesection{    background-color: rgb(26, 26, 60) ;
+    padding: 100px 0px;
+}
+.certificatesection hr{
+    width: 80%;
+    margin: 40px auto;
+    color: gray;
+    
+}
+
+.certificatesection h2{
+    font-size: 50px;
+    color: white;
+}
+
+.card{
+    width: 18rem;
+}
